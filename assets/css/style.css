@@ -1,0 +1,8 @@
+.jumbotron {
+	background: darkcyan;
+}
+
+input, label, form {
+	margin: 5px;
+	padding-right: 10px;
+}
